@@ -1,7 +1,7 @@
 ﻿namespace Registro_Estudante;
 class Program
 {
-	// Alunos Vitor Guilherme,Thiago Michel, Luiz Felipe, Cristyan
+	// Alunos: Vitor Guilherme,Thiago Michel, Luiz Felipe, Cristyan
 	
 	static void Main()
 	{
