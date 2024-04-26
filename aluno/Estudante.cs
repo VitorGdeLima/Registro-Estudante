@@ -1,9 +1,9 @@
 public class Estudante : Pessoa
 {
-	public string Nome { get; set; }
-	public string Matricula { get; set; }
-	public string Curso { get; set; }
-	public List<double> Notas { get; set; }
+	public string Nome = "";
+	public string Matricula = "";
+	public string Curso = "";
+	public List<double> Notas ;
 	public Estudante(string nome, DateTime dataDeNascimento, string matricula, string curso)
 	{
 		Nome = nome;
